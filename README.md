@@ -4,9 +4,7 @@ A Flutter mobile application prototype developed for our Smart India Hackathon 2
 
 ## Download Android App
 
-[**Download the latest PhaseSync APK**](https://github.com/rahulsingha24/PhaseSync-SIH25064-Prototype/releases/latest)
-
-> The download link will work after the first APK is published through GitHub Releases.
+[**Download the latest PhaseSync APK**](https://github.com/rahulsingha24/PhaseSync-SIH25064-Prototype/releases/latest/download/PhaseSync-v0.1.0-prototype.apk)
 
 PhaseSync demonstrates a software interface for monitoring renewable-energy generation, grid usage, battery conditions and connected electrical loads.
 
